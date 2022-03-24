@@ -1,0 +1,5 @@
+class D:
+    """
+    DDD
+    """
+    pass
